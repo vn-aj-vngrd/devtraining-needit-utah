@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="NeedIt">0242fb8d0fa83200cd674f8ce1050e79</application>
+        <application display_value="Criteria">a77e9ecc47ee71102ec6d24b116d4354</application>
         <assessment/>
         <device_type/>
         <filter/>
         <hint/>
         <homepage/>
         <image/>
-        <link_type>LIST</link_type>
+        <link_type>DIRECT</link_type>
         <map_page/>
-        <mobile_title>NeedIt Tasks</mobile_title>
+        <mobile_title>Record</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_58872_needit_needit_task</name>
-        <order/>
+        <name/>
+        <order>200</order>
         <override_menu_roles>false</override_menu_roles>
-        <query/>
+        <query>system_properties_ui.do?sysparm_title=Records&amp;sysparm_category=Criteria</query>
         <report/>
-        <roles>x_58872_needit.needit_task_user</roles>
+        <roles>x_58872_needit.admin</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-04-05 19:43:12</sys_created_on>
+        <sys_created_on>2023-11-12 01:33:39</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>e031f84c0f0232000d030dbce1050e8f</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>NeedIt Tasks</sys_name>
+        <sys_id>8f32124047ee71102ec6d24b116d431d</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Records</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name>sys_app_module_e031f84c0f0232000d030dbce1050e8f</sys_update_name>
+        <sys_update_name>sys_app_module_8f32124047ee71102ec6d24b116d431d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-11-12 01:58:38</sys_updated_on>
+        <sys_updated_on>2023-11-12 02:28:34</sys_updated_on>
         <timeline_page/>
-        <title>NeedIt Tasks</title>
+        <title>Records</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
